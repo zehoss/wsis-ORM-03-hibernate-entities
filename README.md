@@ -1,0 +1,1 @@
+# wsis-ORM-hibernate-entities
